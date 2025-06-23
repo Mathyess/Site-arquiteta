@@ -171,6 +171,11 @@ const projects = [
 ];
 ```
 
+🌐 Link do Projeto Online
+Acesse o portfólio completo no ar:
+
+🔗 https://vitoria-arquiteta.vercel.app/
+
 ### Informações Pessoais
 Atualize as informações no arquivo `index.html`:
 - Nome e tagline
